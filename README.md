@@ -12,13 +12,11 @@ Sou um jovem desenvolvedor de 18 anos, apaixonado por tecnologia e inovação. A
 
 ## Projetos Destacados
 
-* **[Nome do Projeto 1]:** [Breve descrição do projeto] - [Link para o projeto]
-* **[Nome do Projeto 2]:** [Breve descrição do projeto] - [Link para o projeto]
-* **[Nome do Projeto 3]:** [Breve descrição do projeto] - [Link para o projeto]
+* **[projeto inicial]:** [em busca do nomero secreto] - [git@github.com:whitexitz/testando.git]
 
 ## Estatísticas do GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_NOME_DE_USUARIO&show_icons=true&theme=radical)](https://github.com/SEU_NOME_DE_USUARIO)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=whitexitz&show_icons=true&theme=radical)](https://github.com/whitexitz)
 
 ## Como Colaborar
 
@@ -33,11 +31,6 @@ Se você tiver interesse em colaborar em algum dos meus projetos, sinta-se à vo
 ## Agradecimentos
 
 Agradeço por visitar meu perfil! Sinta-se à vontade para explorar meus projetos e entrar em contato.
-
-
-
-
-
 
 <h1>Jogo do número secreto</h1>
 
