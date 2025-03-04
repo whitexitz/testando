@@ -6,9 +6,9 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará meus projetos, contrib
 
 Sou um jovem desenvolvedor de 18 anos, apaixonado por tecnologia e inovação. Atualmente, estou aprimorando minhas habilidades no curso de programação da Alura, onde exploro diversas linguagens e frameworks. Estou sempre buscando aprender e me aprimorar, e este desafio do README é parte do meu crescimento!
 
-* Atualmente estou aprendendo: [Adicione aqui as tecnologias ou áreas que você está estudando na Alura]
-* Estou procurando colaborar em: [Adicione aqui os tipos de projetos ou áreas que te interessam]
-* Contato: [Adicione aqui seu email, LinkedIn, ou outras formas de contato]
+* Atualmente estou aprendendo: [logica da programção e java ]
+* Estou procurando colaborar em: [programação java ]
+* Contato: [a1owhiteff2.0@gmail.com,linkedin https://www.linkedin.com/in/white-xitz-27b11134b/]
 
 ## Projetos Destacados
 
