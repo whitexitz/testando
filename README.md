@@ -8,7 +8,7 @@ Sou um jovem desenvolvedor de 18 anos, apaixonado por tecnologia e inovação. A
 
 * Atualmente estou aprendendo: [logica da programção e java ]
 * Estou procurando colaborar em: [programação java ]
-* Contato: [a1owhiteff2.0@gmail.com,linkedin https://www.linkedin.com/in/white-xitz-27b11134b/]
+* Contato: [a10whiteff2.0@gmail.com,linkedin https://www.linkedin.com/in/white-xitz-27b11134b/]
 
 ## Projetos Destacados
 
